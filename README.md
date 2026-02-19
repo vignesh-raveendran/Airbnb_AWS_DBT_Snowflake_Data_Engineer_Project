@@ -350,10 +350,11 @@ dbt automatically tracks data lineage, showing:
 
 ## ✍️ Author
 
-**[Vignesh_Raveendran]**  
+**Vignesh Raveendran**  
 *Data Engineer / Data Analyst*  
 
 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+
 
 
 
